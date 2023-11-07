@@ -1,2 +1,2 @@
 # my-odoo
-odoo image using docker compose with custom-addons
+odoo image using docker compose
